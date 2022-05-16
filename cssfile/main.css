@@ -570,7 +570,7 @@ nav ul a:visited{
     margin-left : 30px;
     font-size : 3rem;
     color : whitesmoke;
-    top: 135%
+    top: 125%
   }
  
   ul{
@@ -582,7 +582,7 @@ nav ul a:visited{
     background-color : #072f5f;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     cursor: pointer;
-    top: 155%;
+    top: 145%;
     left: 90%;
   }
   
