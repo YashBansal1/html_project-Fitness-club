@@ -567,10 +567,10 @@ nav ul a:visited{
   }
   h5{
     position: absolute;
-    margin-left : 30px;
+    margin : auto;
     font-size : 3rem;
     color : whitesmoke;
-    top: 125%
+    left: 5%;
   }
  
   ul{
@@ -582,7 +582,7 @@ nav ul a:visited{
     background-color : #072f5f;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     cursor: pointer;
-    top: 145%;
+    margin-top: 40px;
     left: 90%;
   }
   
